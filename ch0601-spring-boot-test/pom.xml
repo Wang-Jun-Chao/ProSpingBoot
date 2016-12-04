@@ -10,7 +10,6 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>sprint-boot</name>
     <description>Demo project for Spring Boot</description>
 
     <parent>
