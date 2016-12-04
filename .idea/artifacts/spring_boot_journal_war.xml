@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring-boot-journal:war">
+    <output-path>$PROJECT_DIR$/ch1201-spring-boot-journal/target</output-path>
+    <root id="archive" name="spring-boot-journal-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="spring-boot-journal:war exploded" />
+    </root>
+  </artifact>
+</component>
