@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="simple-web-spring-app-v2:war exploded">
+    <output-path>$PROJECT_DIR$/ch0501-simple-web-app-spring/simple-web-spring-app-v2/target/simple-web-spring-app</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="simple-web-spring-app-v2" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/ch0501-simple-web-app-spring/simple-web-spring-app-v2/target/simple-web-spring-app/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="simple-web-spring-app-v2/web/Web" />
+    </root>
+  </artifact>
+</component>
