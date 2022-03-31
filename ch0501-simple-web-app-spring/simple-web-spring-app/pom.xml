@@ -19,7 +19,7 @@
         <servlet.version>2.5</servlet.version>
 
         <!-- Spring -->
-        <spring-framework.version>4.3.4.RELEASE</spring-framework.version>
+        <spring-framework.version>5.3.18</spring-framework.version>
 
     </properties>
 
@@ -68,12 +68,12 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-webmvc</artifactId>
-            <version>RELEASE</version>
+            <version>5.3.18</version>
         </dependency>
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-webmvc</artifactId>
-            <version>RELEASE</version>
+            <version>5.3.18</version>
         </dependency>
         <dependency>
             <groupId>javax.servlet</groupId>
